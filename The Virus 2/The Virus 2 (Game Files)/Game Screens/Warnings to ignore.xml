@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<RetroDevStudioSettings>
+  <IgnoredMessages>
+    <Message Index="36867"/>
+    <Message Index="36871"/>
+  </IgnoredMessages>
+  <WarningsAsErrors/>
+  <AssemblerHacks/>
+  <AutoTruncateLiterals Enabled="no"/>
+  <LabelFileIgnoreAssemblerIDLabels Enabled="no"/>
+</RetroDevStudioSettings>

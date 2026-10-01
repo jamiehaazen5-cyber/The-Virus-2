@@ -1,0 +1,29 @@
+          ;  _______ _           __      __                   ___  
+          ; |__   __| |          \ \    / (_)                |__ \ 
+          ;    | |  | |__   ___   \ \  / / _ _ __ _   _ ___     ) |
+          ;    | |  | '_ \ / _ \   \ \/ / | | '__| | | / __|   / / 
+          ;    | |  | | | |  __/    \  /  | | |  | |_| \__ \  / /_ 
+          ;    |_|  |_| |_|\___|     \/   |_|_|   \__,_|___/ |____|
+
+
+This is the space allocated to these areas not what is actually used.
+
+Most areas to not use nearly all of their space.
+
+Memory Map
+
+$0400 - $07E8 = Loading Screen
+
+$1000 - $1FFF = Music
+
+$2000 - $2FFF = Sprites
+
+$3000 - $5FFF = Game Screens, Graphics Tiles & Map Data
+
+$6000 - $9FFF = Game Code (Not all used)
+
+$C000 - $CDFF = Interrupt Handler
+
+$CF00 - $CFFF = Variables 
+
+
