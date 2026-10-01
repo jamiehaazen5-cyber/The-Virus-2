@@ -25,7 +25,7 @@ Programming Note:
 I chose to keep the Kernal as routines Like $FFD2 And $FFF0 were very useful.
 I am aware that it locks me out of the Zero page and implied addressing modes but For a First Major Project the trade off seemed worth it. 
 This Game took me about 3 months and took a lot of work and dedication. 
-I apologize for the lack of comments in the code However i Have went back and commented some of the mode technical routines. 
+I apologize for the lack of comments in the code However i Have went back and commented some of the more technical routines. 
 
 All Images used in the Box art originally from PNG Tree.
 Box art made on Canva
